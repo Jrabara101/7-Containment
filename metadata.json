@@ -1,0 +1,6 @@
+{
+  "name": "Sector 7: Containment Breach",
+  "description": "A retro-inspired 3D first-person shooter set inside a locked-down industrial research facility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
